@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-</head>
+
   </head>
 <header>
 <h1>USPS</h1>
@@ -77,9 +77,8 @@
 <h2>CIA</h2>
 <div class="ciap1">
 <p>The Central Intelligence Agency is a civilian foreign intelligence service of the United States federal government, tasked with gathering, processing, and analyzing national security information.</p>
-</div>
 <h4>Controversy.</h4>
-<p>The Cia is encircled in conspiracy theories from the cause of 9/11 to JFK's assassination</p>
+<p>The CIA is encircled in conspiracy theories from the cause of 9/11 to JFK's assassination</p>
 <h6>Founded</h6>
 <p>The CIA was founded in 1947.<p>
 <a href="http://www.cia.gov">CIA</a>
