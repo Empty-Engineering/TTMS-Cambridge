@@ -146,7 +146,7 @@ font-family: arial;
 </select>
 <label  for="input1">and tell why.</label>
 <input class="form-group" id="usr" type="text">
-<a href="https://ilikebananas.com" class="btn" role="button">Submit Report</a>
+<a href="http://ilikebananas.com/" class="btn" role="button">Submit Report</a>
 
 </div>
 
