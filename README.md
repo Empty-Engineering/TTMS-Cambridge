@@ -94,7 +94,4 @@
 <a href="#" class="btn" role="button">Submit Report</a>
 
 </div>
-</body>
-</html>
-
 
