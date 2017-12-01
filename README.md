@@ -7,7 +7,6 @@
   <style>
 .lazer {
 font-family:verdana;
-color: #ffffff;
 font-size:15px;
 
 }
@@ -40,7 +39,7 @@ table{
 color:#ffffff;
 }
 .web-information-cia {
-    color: white;
+    
     text-align: center;
     font-family: arial;
 }
