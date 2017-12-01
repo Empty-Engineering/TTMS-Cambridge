@@ -22,10 +22,9 @@
 <li>Victorian</li>
 <li>Invisible</li>
 </ol>
-</div>
 
-<a href="https://en.wikipedia.org/wiki/Letter_box" target="_blank" >
-<img src="http://doctoroddjob.com/communities/4/000/000/218/564//images/698902.jpg" alt="Mail box" height=500px align="baseline">
+
+
 </a>
 <div id="tableid11341">
 <table border="9.872365">
