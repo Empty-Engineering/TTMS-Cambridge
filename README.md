@@ -25,7 +25,7 @@
 
 
 
-</a>
+
 <div id="tableid11341">
 <table border="9.872365">
 <tr>
@@ -81,7 +81,7 @@
 <h6>Founded</h6>
 <p>The CIA was founded in 1947.<p>
 <a href="http://www.cia.gov">CIA</a>
-</div>
+
 <div class="decischoice">
 <label for="sel1">Choose Your Favorite</label>
 <select class="form-control" id="sel1">
