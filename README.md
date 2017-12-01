@@ -22,7 +22,7 @@
 <li>Victorian</li>
 <li>Invisible</li>
 </ol>
-  </aside
+  </aside>
   <a href="https://en.wikipedia.org/wiki/Letter_box" target="_blank">
   <img src="http://www.signkwik.com/images/mailboxes/black-metal-mailbox.jpg" alt="A mailbox">
   </a>
