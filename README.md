@@ -1,6 +1,14 @@
-<!DOCTYPE HTML>
+
 <html>
 <body>
+  <head>
+    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+  </head>
 <header>
 <h1>USPS</h1>
 </header>
@@ -83,11 +91,11 @@
 <option>NASA</option>
 <option>CIA</option>
 </select>
-<label for="input1">and tell why.</label>
-<input class="question" id="input1" type="text">
-<a href="#" role="button">Submit Report</a>
+<label  for="input1">and tell why.</label>
+<input class="form-group" id="usr" type="text">
+<a href="#" class="btn" 2role="button">Submit Report</a>
 
-</div
+</div>
 </body>
 </html>
 
