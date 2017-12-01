@@ -27,7 +27,6 @@ html{
 background:radial-gradient(rgb(00,00,00), rgb(00,00,50), rgb(00,00,100));
 }
 .nasa {
-color: #ffffff;
 font-family: verdana;
 text-align: center;
 backgound: rgb(230,55,89);
@@ -36,7 +35,7 @@ a {
 text-align:center;
 }
 table{
-color:#ffffff;
+
 }
 .web-information-cia {
     
