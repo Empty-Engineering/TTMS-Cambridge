@@ -4,55 +4,7 @@
   <head>
    
   
-  <style>
-.lazer {
-font-family:verdana;
-font-size:15px;
-
-}
-h1 {
-font-family:arial;
-font-size:22px;
-color:rgb(10,2,12);
-text-align: center;
-background: rgb(0,190,205);
-border-width: 28px;
-}
-ol {
-text-align: left;
-color: #bfc000;
-background-image:url(https://www.architecturalmailboxes.com/wp-content/uploads/2015/05/home-featured-3.jpg);
-}
-html{
-background:radial-gradient(rgb(00,00,00), rgb(00,00,50), rgb(00,00,100));
-}
-.nasa {
-font-family: verdana;
-text-align: center;
-backgound: rgb(230,55,89);
-}
-a {
-text-align:center;
-}
-table{
-
-}
-.web-information-cia {
-    
-    text-align: center;
-    font-family: arial;
-}
-.ciap1 {
-    text-align:left;
-}
-.decischoice {
-background: #ffffff;
-color: #000000;
-font-family: arial;
-}
-
-
-</style>
+ <link rel="stylesheet" href="https://static.parastorage.com/services/santa-editor/1.1659.8/cssCache/packages/rEditor/src/main/editor.css" type="text/css" />
 
 
     <meta name="description" content="SPACE RACE CHASE">
