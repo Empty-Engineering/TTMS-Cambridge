@@ -93,7 +93,7 @@
 </select>
 <label  for="input1">and tell why.</label>
 <input class="form-group" id="usr" type="text">
-<a href="#" class="btn" 2role="button">Submit Report</a>
+<a href="#" class="btn" role="button">Submit Report</a>
 
 </div>
 </body>
