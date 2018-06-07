@@ -2,7 +2,12 @@
 <html>
 <body>
   <head>
-   
+   <style>
+     iFrame {
+     align: center;
+     margin: 20px;
+     background: radial-gradient(black, grey);
+     }
   
  <link rel="stylesheet" href="https://static.parastorage.com/services/santa-editor/1.1659.8/cssCache/packages/rEditor/src/main/editor.css" type="text/css" />
 
@@ -13,8 +18,7 @@
 
   </head>
 <header>
-<h1>TTMS Cambridge</h1>
-  <link href="http://www.cam.ac.uk"><img src="http://www.cudgs.org.uk/wp-content/uploads/2017/05/university-of-cambridge-logo-2.png"
+  <link href="http://www.cam.ac.uk"><img src="http://www.cudgs.org.uk/wp-content/uploads/2017/05/university-of-cambridge-logo-2.png">
        alt="University of Cambridge Logo">
   </img>
        </link>
@@ -24,9 +28,9 @@
 <div class="decischoice">
 <label for="sel1">Choose Your Favorite</label>
 <select class="form-control" id="sel1">
-<option>Melvin</option>
-<option>Kartik</option>
-<option>Other</option>
+<option>6th Grade</option>
+<option>7th Grade</option>
+<option>8th Grade</option>
 </select>
 <label  for="input1">and tell why.</label>
 <input class="form-group" id="usr" type="text">
