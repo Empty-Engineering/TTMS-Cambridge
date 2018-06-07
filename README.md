@@ -24,9 +24,9 @@
 <div class="decischoice">
 <label for="sel1">Choose Your Favorite</label>
 <select class="form-control" id="sel1">
-<option>USPS</option>
-<option>NASA</option>
-<option>CIA</option>
+<option>Melvin</option>
+<option>Kartik</option>
+<option>Other</option>
 </select>
 <label  for="input1">and tell why.</label>
 <input class="form-group" id="usr" type="text">
