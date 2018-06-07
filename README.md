@@ -14,10 +14,8 @@
   </head>
 <header>
 <h1>TTMS Cambridge</h1>
-  <img src="http://www.cudgs.org.uk/wp-content/uploads/2017/05/university-of-cambridge-logo-2.png"
-       alt="University of Cambridge Logo">
-  <link href="http://www.cam.ac.uk"></link>
-  </img>
+  <link href="http://www.cam.ac.uk"><img src="http://www.cudgs.org.uk/wp-content/uploads/2017/05/university-of-cambridge-logo-2.png"
+       alt="University of Cambridge Logo"></img></link>
 </header>
 <iframe src='https://minnit.chat/Cambridge?embedwebdark' width='1000' height='500' style='border:none;' allowTransparency='true'></iframe><br>
 
