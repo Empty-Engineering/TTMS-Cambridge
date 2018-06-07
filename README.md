@@ -2,10 +2,10 @@
 <html>
 <body>
   <head>
-    <link rel="stylesheet" href="https://static.parastorage.com/services/santa-editor/1.1659.8/cssCache/packages/rEditor/src/main/editor.css" type="text/css" />
+    <link rel="stylesheet" href="https://static.parastorage.com/services/santa-editor/1.1659.8/cssCache/packages/rEditor/src/main/editor.css" type="text/css">
 
    <style>
-     iFrame {
+     .lifeFrame {
      align: center;
      margin: 20px;
      background: radial-gradient(black, grey);
@@ -24,7 +24,7 @@
   </img>
        </link>
 
-<iframe src='https://minnit.chat/Cambridge?embedwebdark' width='1000' height='500' style='border:none;' allowTransparency='true'></iframe><br>
+<iframe id="lifeFrame" src='https://minnit.chat/Cambridge?embedwebdark' width='1000' height='500' style='border:none;' allowTransparency='true'></iframe><br>
 
 <div class="decischoice">
 <label for="sel1">Choose Your Favorite</label>
