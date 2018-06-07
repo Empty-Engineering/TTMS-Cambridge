@@ -8,7 +8,7 @@
      margin: 20px;
      background: radial-gradient(black, grey);
      }
-  
+    </style>
  <link rel="stylesheet" href="https://static.parastorage.com/services/santa-editor/1.1659.8/cssCache/packages/rEditor/src/main/editor.css" type="text/css" />
 
 
