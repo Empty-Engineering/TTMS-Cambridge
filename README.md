@@ -2,6 +2,8 @@
 <html>
 <body>
   <head>
+    <link rel="stylesheet" href="https://static.parastorage.com/services/santa-editor/1.1659.8/cssCache/packages/rEditor/src/main/editor.css" type="text/css" />
+
    <style>
      iFrame {
      align: center;
@@ -9,8 +11,7 @@
      background: radial-gradient(black, grey);
      }
     </style>
- <link rel="stylesheet" href="https://static.parastorage.com/services/santa-editor/1.1659.8/cssCache/packages/rEditor/src/main/editor.css" type="text/css" />
-
+ 
 
     <meta name="description" content="SPACE RACE CHASE">
   <meta name="keywords" content="Mailboxes, Mailbox, Nasa,CIA, Space Shuttles, JFK">
