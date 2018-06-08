@@ -43,6 +43,7 @@
   <td>Mr. Pilgia</td>
   </tr>
 	</table>
+	<p>8th Grade Global Perspectives: Mr. Devant.</p>
 
   <hr>
 <br>
@@ -65,8 +66,6 @@
 
 </div>
 <br> 
-<br>
-<hr>
-  <h2>8th Grade Global Perspectives: Mr. Devant.</h2>
+  
 	</body>
 </html>
