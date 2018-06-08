@@ -13,9 +13,11 @@
   <a href="http://www.cam.ac.uk">
   <img align="center" src="http://www.cudgs.org.uk/wp-content/uploads/2017/05/university-of-cambridge-logo-2.png" alt="University of Cambridge Logo">
        </a>
-
+       </br>
+</br>
 <iframe src='https://minnit.chat/Cambridge?embedwebdark' width='1000' height='500' style='border:none;' allowTransparency='true'></iframe><br>
-
+</br>
+</br>
 <div class="decischoice">
 <label for="sel1">Choose Your Favorite</label>
 <select class="form-control" id="sel1">
