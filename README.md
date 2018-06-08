@@ -15,11 +15,8 @@
   <img align="center" src="http://www.cudgs.org.uk/wp-content/uploads/2017/05/university-of-cambridge-logo-2.png" alt="University of Cambridge Logo">
        </a>
        <br>
-<br>
-<iframe src='https://minnit.chat/Cambridge?embedwebdark' width='1000' height='500' style='border:none;' allowTransparency='true'></iframe><br>
-<br>
-<hr>
-<table style="width:100%">
+       <hr>
+       <table style="width:100%">
   <tr>
     <th>                  </td>
     <th>6th Grade Teachers</th>
@@ -43,9 +40,14 @@
   <td>Ms. Taylor</td>
   <td>Ms. Beitz</td>
   <td>Mr. Pilgia</td>
-  </tr>
-  </table>
-  <h4 style:"align:center">8th Grade Global Perspectives: Mr. Devant.</h4>
+ 
+  <h4>8th Grade Global Perspectives: Mr. Devant.</h4>
+  <hr>
+<br>
+<iframe src='https://minnit.chat/Cambridge?embedwebdark' width='1000' height='500' style='border:none;' allowTransparency='true'></iframe><br>
+<br>
+<hr>
+
 <br>
 <hr>
 <div class="decischoice">
