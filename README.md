@@ -45,7 +45,7 @@
   <td>Mr. Pilgia</td>
   </tr>
   </table>
-  <h4>8th Grade Global Perspectives: Mr. Devant.</h4>
+  <h4 style:"align:center">8th Grade Global Perspectives: Mr. Devant.</h4>
 <br>
 <hr>
 <div class="decischoice">
