@@ -41,7 +41,7 @@
   <td>Ms. Beitz</td>
   <td>Mr. Pilgia</td>
  
-  <h2>8th Grade Global Perspectives: Mr. Devant.</h2>
+
   <hr>
 <br>
 <iframe src='https://minnit.chat/Cambridge?embedwebdark' width='1000' height='500' style='border:none;' allowTransparency='true'></iframe><br>
@@ -65,4 +65,4 @@
 <br> 
 <br>
 <hr>
-
+  <h2>8th Grade Global Perspectives: Mr. Devant.</h2>
