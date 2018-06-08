@@ -22,26 +22,26 @@
     <th>6th Grade Teachers</th>
     <th>7th Grade Teachers</th>
     <th>8th Grade Teachers</th>
-  </tr>
+
   <tr>
      <th>ELA</th>
   <td>Ms. Wilson</td>
   <td>Ms. Smith</td>
   <td>Ms. Morton</td>  
-  </tr>
+ 
   <tr>
     <th>Science</th>
     <td>Ms. Shields</td>
     <td>Ms. Cooper</td>
     <td>Ms. Swinterton</td>
-  </tr>
+
   <tr>
   <th>Social Studies</th>
   <td>Ms. Taylor</td>
   <td>Ms. Beitz</td>
   <td>Mr. Pilgia</td>
  
-
+</table>
   <hr>
 <br>
 <iframe src='https://minnit.chat/Cambridge?embedwebdark' width='1000' height='500' style='border:none;' allowTransparency='true'></iframe><br>
