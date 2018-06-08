@@ -41,7 +41,7 @@
   <td>Ms. Beitz</td>
   <td>Mr. Pilgia</td>
  
-</table>
+
   <hr>
 <br>
 <iframe src='https://minnit.chat/Cambridge?embedwebdark' width='1000' height='500' style='border:none;' allowTransparency='true'></iframe><br>
