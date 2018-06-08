@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 <body>
   <head>
@@ -66,3 +66,4 @@
 <br>
 <hr>
   <h2>8th Grade Global Perspectives: Mr. Devant.</h2>
+</html>
