@@ -50,7 +50,7 @@
 <iframe src="https://minnit.chat/Cambridge?embedwebdark" width="1000" height="500" style="border:none;" allowTransparency="true"></iframe><br>
 <br>
 <hr>
-
+<p>The Cambridge program and qualifications have a proven reputation for giving students an excellent preparation for university, employment and life. The growing number of students taking our program in the USA shows that schools value the Cambridge approach.
 <br>
 <hr>
 <div class="decischoice">
