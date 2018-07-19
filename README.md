@@ -67,5 +67,4 @@
 </div>
 <br> 
   
-	</body>
-</html>
+	
