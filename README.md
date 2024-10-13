@@ -13,7 +13,7 @@
   <hr>
 
   <a target="_blank" href="http://www.cam.ac.uk">
-  <img align="center" src="http://www.cudgs.org.uk/wp-content/uploads/2017/05/university-of-cambridge-logo-2.png" alt="University of Cambridge Logo">
+  <img align="center" src="https://www.cam.ac.uk/sites/www.cam.ac.uk/files/inner-images/logo.jpg" alt="University of Cambridge Logo">
        </a>
        <br>
        <hr>
